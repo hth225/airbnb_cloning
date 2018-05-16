@@ -41,12 +41,12 @@ ul, ol {
 
 ::selection {
 	color: #fff;
-	background-color: #4848484;
+	background-color: #484848;
 }
 
 ::-moz-selection {
 	color: #fff;
-	background-color: #4848484;
+	background-color: #484848;
 
 }
 
@@ -67,15 +67,15 @@ ul, ol {
 }
 
 .logo{
-	color: #4848484;
+	color: #484848;
 	display: inline-block;
-	border-right: 1px #ccc;
+	border-right: 1px solid #ccc;
 	
 
 }
 
 .logo:visited {
-	color: #4848484;
+	color: #484848;
 	
 }
 
