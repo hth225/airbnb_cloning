@@ -63,10 +63,14 @@ ul, ol {
 	width: 100%;
 	height: auto;
 	border-bottom: 1px solid #ccc;
+	border-right: 1px #ccc;
 }
 
-.logo:link{
+.logo{
 	color: #4848484;
+	display: inline-block;
+	border-right: 1px #ccc;
+	
 
 }
 
@@ -82,6 +86,7 @@ ul, ol {
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
+	
 
 }
 
